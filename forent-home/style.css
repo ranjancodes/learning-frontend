@@ -11,6 +11,9 @@ nav{
     padding: 10px 80px;
     justify-content: space-between;
 }
+.header-sec:hover{
+    border: 0.5px solid wheat;
+}
 nav > div{
     width: 80%;
     display: flex;
@@ -92,6 +95,9 @@ div > p{
     margin-top: 8px;
     color: rgba(255, 255, 255, 0.8);
     font-size: 12px;
+}
+.card:hover{
+    border: 0.5px solid wheat;
 }
 .card > button{
     color: black;
