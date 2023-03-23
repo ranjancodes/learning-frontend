@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    margin: 30px auto;
+    max-width:400px;
+    line-height:1.6;
+    font-size:18px;
+    color:white;
+    padding:0 10px;
+    text-decoration: none;
+}
+div{
+
+    border: 1px white solid;
+    border-radius: 20px;
+    padding: 0px 30px;
+}
